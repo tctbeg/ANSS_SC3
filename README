@@ -1,6 +1,10 @@
-./transform.sh 
-1) Queries an SC3 installation and transforms that information into SC3ML 
+./transform.sh [eventid] 
+1) Queries an SC3 database and transforms that information into SC3ML 
 2) Transforms SC3ML into QML
 3) Adds ANSS extensions to QML
 
 Under Development
+
+ANSS QML extentions: https://github.com/usgs/Quakeml/wiki/ANSS-Quakeml-Catalog-Extension
+SCXMLDUMP: https://www.seiscomp3.org/doc/jakarta/current/apps/scxmldump.html
+XSLTPROC: http://xmlsoft.org/XSLT/xsltproc.html
