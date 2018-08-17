@@ -6,10 +6,9 @@ To transform an event:
 ./transform.sh [eventid] 
 
 Under Development.
-Hardcoded values are present in the XSL to add ANSS extensions. 
+Project-specific hardcoded values are present in the XSL to add ANSS extensions. 
 
 Resources:
 ANSS QML extentions: https://github.com/usgs/Quakeml/wiki/ANSS-Quakeml-Catalog-Extension
 SCXMLDUMP: https://www.seiscomp3.org/doc/jakarta/current/apps/scxmldump.html
 XSLTPROC: http://xmlsoft.org/XSLT/xsltproc.html
-
