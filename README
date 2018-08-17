@@ -1,5 +1,6 @@
 This repo can be dropped into a system running SC3. 
 It requires that scxmldump and xsltproc are available on the system path.
+Tested with Seiscomp3 Jakarta 2017.334
 
 To transform an event:
 
