@@ -1,2 +1,6 @@
-This is XSL to transform QuakeML into QuakeML with ANSS extensions.
+./transform.sh 
+1) Queries an SC3 installation and transforms that information into SC3ML 
+2) Transforms SC3ML into QML
+3) Adds ANSS extensions to QML
+
 Under Development
