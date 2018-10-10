@@ -16,9 +16,8 @@
             <xsl:apply-templates select="@*|node()"/>
         </xsl:copy>
     </xsl:template>
-
-     
-     <xsl:template match="q:event">
+ 
+    <xsl:template match="q:event">
        <xsl:copy>
          <xsl:attribute name="catalog:datasource" namespace="http://anss.org/xmlns/catalog/0.1">tx</xsl:attribute>
          <xsl:attribute name="catalog:eventsource" namespace="http://anss.org/xmlns/catalog/0.1">tx</xsl:attribute>
@@ -45,6 +44,28 @@
          <xsl:apply-templates select="node() | @*"/>
        </xsl:copy>
     </xsl:template>
+
+    <xsl:template match="q:eventParameters">
+      <xsl:copy>
+        <xsl:apply-templates select="node() | @*"/>
+        <xsl:element name="creationInfo">
+          <xsl:element name="agencyID">TX</xsl:element>
+          <xsl:element name="creationTime">
+            <xsl:value-of select="$current-date"/>
+          </xsl:element>
+        </xsl:element>
+      </xsl:copy>
+    </xsl:template>
+
+    <xsl:template match="q:eventParameters/@publicID">
+      <xsl:attribute name="publicID">
+        <xsl:value-of select="concat('smi:org.gfz-potsdam.de/geofon/tx/', $epoch)"></xsl:value-of>
+      </xsl:attribute>
+    </xsl:template>
+
+   <xsl:template match="q:creationInfo/q:agencyID">
+     <xsl:copy>TX</xsl:copy>
+   </xsl:template>
 
 </xsl:stylesheet>
 
