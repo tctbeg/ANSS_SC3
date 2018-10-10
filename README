@@ -2,9 +2,9 @@ This repo can be dropped into a system running SC3.
 It requires that scxmldump and xsltproc are available on the system path.
 Tested with Seiscomp3 Jakarta 2017.334
 
-To add an event:
+To add or update an event:
 
-./add.sh [eventid] 
+./update.sh [eventid] 
 
 To delete an event:
 
