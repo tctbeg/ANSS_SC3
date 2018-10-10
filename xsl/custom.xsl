@@ -15,15 +15,6 @@
         </xsl:copy>
     </xsl:template>
  
-    <xsl:template match="q:magnitude[not (q:type = 'ML')]">
-    </xsl:template>
-
-    <xsl:template match="q:magnitude[q:type = 'ML']/q:mag/q:value">
-      <xsl:copy>
-        <xsl:value-of select="round(current() * 10) div 10"/>
-      </xsl:copy>
-    </xsl:template>
-
 </xsl:stylesheet>
 
 
