@@ -10,10 +10,10 @@ To delete an event:
 
 ./delete.sh [eventid]
 
+Generated events are output to the output directory. PDL can be configured to monitor this directory. https://usgs.github.io/pdl/userguide/eidsinputwedge.html
 
 Under Development.
 Project-specific hardcoded values are present in the XSL to add ANSS extensions. 
-
 Resources:
 ANSS QML extentions: https://github.com/usgs/Quakeml/wiki/ANSS-Quakeml-Catalog-Extension
 SCXMLDUMP: https://www.seiscomp3.org/doc/jakarta/current/apps/scxmldump.html
