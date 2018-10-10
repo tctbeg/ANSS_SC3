@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<q:quakeml xmlns:q="http://quakeml.org/xmlns/quakeml/1.2" xmlns="http://quakeml.org/xmlns/bed/1.2">
+  <eventParameters publicID="smi:org.gfz-potsdam.de/geofon/tx/1539189677.726394">
+    <event xmlns:catalog="http://anss.org/xmlns/catalog/0.1" catalog:datasource="tx" catalog:eventsource="tx" catalog:eventid="2018tvwz" catalog:dataid="tx2018tvwz" publicID="smi:org.gfz-potsdam.de/geofon/texnet2018tvwz">
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      <origin catalog:datasource="tx" catalog:eventsource="tx" catalog:eventid="2018tvwz" catalog:dataid="tx2018tvwz" publicID="smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535">
+        <time>
+          <value>2018-10-10T08:38:58.454256Z</value>
+        </time>
+        <latitude>
+          <value>31.06483687</value>
+          <uncertainty>0.6674305999</uncertainty>
+        </latitude>
+        <longitude>
+          <value>-103.3111285</value>
+          <uncertainty>0.6393067728</uncertainty>
+        </longitude>
+        <depth>
+          <value>3689.306641</value>
+          <uncertainty>1704.787708</uncertainty>
+        </depth>
+        <methodID>smi:org.gfz-potsdam.de/geofon/NonLinLoc</methodID>
+        <earthModelID>smi:org.gfz-potsdam.de/geofon/PB1D-20170918-topoLV</earthModelID>
+        <quality>
+          <associatedPhaseCount>39</associatedPhaseCount>
+          <usedPhaseCount>32</usedPhaseCount>
+          <usedStationCount>22</usedStationCount>
+          <standardError>0.3004651564</standardError>
+          <azimuthalGap>52.44491726</azimuthalGap>
+          <secondaryAzimuthalGap>66.57325056</secondaryAzimuthalGap>
+          <groundTruthLevel>-</groundTruthLevel>
+          <maximumDistance>1.883266319</maximumDistance>
+          <minimumDistance>0.1451770897</minimumDistance>
+          <medianDistance>1.150302757</medianDistance>
+        </quality>
+        <originUncertainty>
+          <horizontalUncertainty>1036.017105</horizontalUncertainty>
+          <minHorizontalUncertainty>944.0736711</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>1036.017105</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>148.8319825</azimuthMaxHorizontalUncertainty>
+          <confidenceEllipsoid>
+            <semiMajorAxisLength>3234959.671</semiMajorAxisLength>
+            <semiMinorAxisLength>1092746.941</semiMinorAxisLength>
+            <semiIntermediateAxisLength>1270994.488</semiIntermediateAxisLength>
+            <majorAxisPlunge>8.58555047</majorAxisPlunge>
+            <majorAxisAzimuth>-118.3400756</majorAxisAzimuth>
+            <majorAxisRotation>81.83549507</majorAxisRotation>
+          </confidenceEllipsoid>
+        </originUncertainty>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>final</evaluationStatus>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:05.067362Z</creationTime>
+        </creationInfo>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </origin>
+      <preferredOriginID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</preferredOriginID>
+      <preferredMagnitudeID>smi:org.gfz-potsdam.de/geofon/Magnitude/20181010143511.713418.28578</preferredMagnitudeID>
+      <type>earthquake</type>
+      <typeCertainty>known</typeCertainty>
+      <creationInfo>
+        <agencyID>TX</agencyID>
+        <author>scevent@sc3primary.beg.utexas.edu</author>
+        <creationTime>2018-10-10T08:39:10.856056Z</creationTime>
+      </creationInfo>
+      <description>
+        <text>Western Texas</text>
+        <type>region name</type>
+      </description>
+    <type>not existing</type></event>
+    <creationInfo>
+      <agencyID>TX</agencyID>
+      <creationTime>2018-10-10T16:41:17.726394Z</creationTime>
+    </creationInfo>
+  </eventParameters>
+</q:quakeml>

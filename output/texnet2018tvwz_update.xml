@@ -1,0 +1,1765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<q:quakeml xmlns:q="http://quakeml.org/xmlns/quakeml/1.2" xmlns="http://quakeml.org/xmlns/bed/1.2">
+  <eventParameters publicID="smi:org.gfz-potsdam.de/geofon/tx/1539189691.907715">
+    <event xmlns:catalog="http://anss.org/xmlns/catalog/0.1" catalog:datasource="tx" catalog:eventsource="tx" catalog:eventid="2018tvwz" catalog:dataid="tx2018tvwz" publicID="smi:org.gfz-potsdam.de/geofon/texnet2018tvwz">
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143511.71766.28592">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>2.177840221</value>
+        </mag>
+        <type>MLv</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010135038.011744.13217</amplitudeID>
+        <waveformID networkCode="TX" stationCode="MNHN" locationCode="00" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:11.717669Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143511.717763.28593">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>1.993430466</value>
+        </mag>
+        <type>MLv</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010135038.132965.13225</amplitudeID>
+        <waveformID networkCode="TX" stationCode="VHRN" locationCode="00" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:11.717772Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143511.717891.28594">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>2.310071834</value>
+        </mag>
+        <type>MLv</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.33732.26871</amplitudeID>
+        <waveformID networkCode="4T" stationCode="NM03" locationCode="00" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:11.717904Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143511.717997.28595">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>2.127906569</value>
+        </mag>
+        <type>MLv</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.536533.26886</amplitudeID>
+        <waveformID networkCode="TX" stationCode="PB05" locationCode="00" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:11.718005Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143511.718096.28596">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>2.009895283</value>
+        </mag>
+        <type>MLv</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.509534.26884</amplitudeID>
+        <waveformID networkCode="TX" stationCode="PB03" locationCode="00" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:11.718105Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143511.718194.28597">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>2.200730984</value>
+        </mag>
+        <type>MLv</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.502457.26882</amplitudeID>
+        <waveformID networkCode="TX" stationCode="PB01" locationCode="00" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:11.718202Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143511.71829.28598">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>2.138374756</value>
+        </mag>
+        <type>MLv</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.656497.26892</amplitudeID>
+        <waveformID networkCode="TX" stationCode="PECS" locationCode="00" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:11.718299Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143511.718387.28599">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>1.957230105</value>
+        </mag>
+        <type>MLv</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.364451.26876</amplitudeID>
+        <waveformID networkCode="TX" stationCode="ALPN" locationCode="00" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:11.718395Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143511.718529.28600">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>2.10789001</value>
+        </mag>
+        <type>MLv</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.374865.26878</amplitudeID>
+        <waveformID networkCode="TX" stationCode="ODSA" locationCode="00" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:11.718543Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143511.718638.28601">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>2.190657824</value>
+        </mag>
+        <type>MLv</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.318515.26870</amplitudeID>
+        <waveformID networkCode="4T" stationCode="NM02" locationCode="00" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:11.718646Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143511.718737.28602">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>2.585481174</value>
+        </mag>
+        <type>MLv</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.355731.26874</amplitudeID>
+        <waveformID networkCode="SC" stationCode="HTMS" locationCode="00" channelCode="EHZ"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:11.718745Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143511.718833.28603">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>2.304423864</value>
+        </mag>
+        <type>MLv</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.724496.26894</amplitudeID>
+        <waveformID networkCode="TX" stationCode="SAND" locationCode="00" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:11.718842Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143511.718929.28604">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>2.46021697</value>
+        </mag>
+        <type>MLv</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.478212.26880</amplitudeID>
+        <waveformID networkCode="TX" stationCode="OZNA" locationCode="00" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:11.718937Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143511.719024.28605">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>2.228737963</value>
+        </mag>
+        <type>MLv</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.738939.26896</amplitudeID>
+        <waveformID networkCode="US" stationCode="MNTX" locationCode="00" channelCode="BHZ"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:11.719032Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143511.719148.28606">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>2.558415643</value>
+        </mag>
+        <type>MLv</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.353416.26873</amplitudeID>
+        <waveformID networkCode="SC" stationCode="DAG" locationCode="00" channelCode="EHZ"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:11.719162Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143511.719254.28607">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>2.988878729</value>
+        </mag>
+        <type>MLv</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.350434.26872</amplitudeID>
+        <waveformID networkCode="SC" stationCode="CPRX" locationCode="00" channelCode="EHZ"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:11.719262Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143511.719354.28608">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>2.070797294</value>
+        </mag>
+        <type>MLv</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.592328.26890</amplitudeID>
+        <waveformID networkCode="TX" stationCode="PB11" locationCode="00" channelCode="HHZ"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:11.719362Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <amplitude publicID="smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.533553.26885">
+        <type>ML</type>
+        <genericAmplitude>
+          <value>5.454036983</value>
+          <lowerUncertainty>1.648739012</lowerUncertainty>
+          <upperUncertainty>1.648739012</upperUncertainty>
+        </genericAmplitude>
+        <timeWindow>
+          <reference>2018-10-10T08:39:06.35Z</reference>
+          <begin>-9.499999</begin>
+          <end>30.91</end>
+        </timeWindow>
+        <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667074.26371</pickID>
+        <waveformID networkCode="TX" stationCode="PB05" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:19:35.533612Z</creationTime>
+        </creationInfo>
+      </amplitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.349203.28627">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>2.311888814</value>
+        </mag>
+        <type>ML</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.533553.26885</amplitudeID>
+        <waveformID networkCode="TX" stationCode="PB05" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:47.349216Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <amplitude publicID="smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.507056.26883">
+        <type>ML</type>
+        <genericAmplitude>
+          <value>3.597050649</value>
+          <lowerUncertainty>0.3837860255</lowerUncertainty>
+          <upperUncertainty>0.3837860255</upperUncertainty>
+        </genericAmplitude>
+        <timeWindow>
+          <reference>2018-10-10T08:39:07.415Z</reference>
+          <begin>-9.604999</begin>
+          <end>31.785</end>
+        </timeWindow>
+        <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.66724.26373</pickID>
+        <waveformID networkCode="TX" stationCode="PB03" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:19:35.507086Z</creationTime>
+        </creationInfo>
+      </amplitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.349528.28628">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>2.224361766</value>
+        </mag>
+        <type>ML</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.507056.26883</amplitudeID>
+        <waveformID networkCode="TX" stationCode="PB03" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:47.349543Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <amplitude publicID="smi:org.gfz-potsdam.de/geofon/Amplitude/20181010143547.348661.28626">
+        <type>ML</type>
+        <genericAmplitude>
+          <value>0.3449678684</value>
+          <lowerUncertainty>0.02372992219</lowerUncertainty>
+          <upperUncertainty>0.02372992219</upperUncertainty>
+        </genericAmplitude>
+        <timeWindow>
+          <reference>2018-10-10T08:39:17.45Z</reference>
+          <begin>-4.259999</begin>
+          <end>4.72</end>
+        </timeWindow>
+        <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667313.26375</pickID>
+        <waveformID networkCode="TX" stationCode="PB08" locationCode="00" channelCode="HH"/>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:47.348724Z</creationTime>
+        </creationInfo>
+      </amplitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.349802.28629">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>1.607907511</value>
+        </mag>
+        <type>ML</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010143547.348661.28626</amplitudeID>
+        <waveformID networkCode="TX" stationCode="PB08" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:47.349812Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <amplitude publicID="smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.48412.26881">
+        <type>ML</type>
+        <genericAmplitude>
+          <value>0.652987292</value>
+          <lowerUncertainty>0.07394158932</lowerUncertainty>
+          <upperUncertainty>0.07394158932</upperUncertainty>
+        </genericAmplitude>
+        <timeWindow>
+          <reference>2018-10-10T08:39:20.235Z</reference>
+          <begin>-17.984999</begin>
+          <end>32.395</end>
+        </timeWindow>
+        <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667454.26378</pickID>
+        <waveformID networkCode="TX" stationCode="PB01" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:19:35.484172Z</creationTime>
+        </creationInfo>
+      </amplitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.350066.28630">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>1.932408326</value>
+        </mag>
+        <type>ML</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.48412.26881</amplitudeID>
+        <waveformID networkCode="TX" stationCode="PB01" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:47.350076Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <amplitude publicID="smi:org.gfz-potsdam.de/geofon/Amplitude/20181010135038.002039.13216">
+        <type>ML</type>
+        <genericAmplitude>
+          <value>0.2894631922</value>
+          <lowerUncertainty>0.02952340837</lowerUncertainty>
+          <upperUncertainty>0.02952340837</upperUncertainty>
+        </genericAmplitude>
+        <timeWindow>
+          <reference>2018-10-10T08:39:26.125Z</reference>
+          <begin>-21.584999</begin>
+          <end>33.625</end>
+        </timeWindow>
+        <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587066.13190</pickID>
+        <waveformID networkCode="TX" stationCode="MNHN" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>peng</author>
+          <creationTime>2018-10-10T13:50:38.002069Z</creationTime>
+        </creationInfo>
+      </amplitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.350379.28631">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>1.707165986</value>
+        </mag>
+        <type>ML</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010135038.002039.13216</amplitudeID>
+        <waveformID networkCode="TX" stationCode="MNHN" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:47.350394Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <amplitude publicID="smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.63489.26891">
+        <type>ML</type>
+        <genericAmplitude>
+          <value>0.409020894</value>
+          <lowerUncertainty>0.06540607906</lowerUncertainty>
+          <upperUncertainty>0.06540607906</upperUncertainty>
+        </genericAmplitude>
+        <timeWindow>
+          <reference>2018-10-10T08:39:23.29Z</reference>
+          <begin>-18.179999</begin>
+          <end>37.94</end>
+        </timeWindow>
+        <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667512.26380</pickID>
+        <waveformID networkCode="TX" stationCode="PECS" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:19:35.634934Z</creationTime>
+        </creationInfo>
+      </amplitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.350656.28632">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>1.879782422</value>
+        </mag>
+        <type>ML</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.63489.26891</amplitudeID>
+        <waveformID networkCode="TX" stationCode="PECS" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:47.350665Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <amplitude publicID="smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.361728.26875">
+        <type>ML</type>
+        <genericAmplitude>
+          <value>0.1862521324</value>
+          <lowerUncertainty>0.01905458779</lowerUncertainty>
+          <upperUncertainty>0.01905458779</upperUncertainty>
+        </genericAmplitude>
+        <timeWindow>
+          <reference>2018-10-10T08:39:25.0625Z</reference>
+          <begin>-17.072499</begin>
+          <end>45.2675</end>
+        </timeWindow>
+        <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667603.26383</pickID>
+        <waveformID networkCode="TX" stationCode="ALPN" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:19:35.361778Z</creationTime>
+        </creationInfo>
+      </amplitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.350919.28633">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>1.678623202</value>
+        </mag>
+        <type>ML</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.361728.26875</amplitudeID>
+        <waveformID networkCode="TX" stationCode="ALPN" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:47.350928Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <amplitude publicID="smi:org.gfz-potsdam.de/geofon/Amplitude/20181010142005.645625.26949">
+        <type>ML</type>
+        <genericAmplitude>
+          <value>0.1110646242</value>
+          <lowerUncertainty>0.0005975662573</lowerUncertainty>
+          <upperUncertainty>0.0005975662573</upperUncertainty>
+        </genericAmplitude>
+        <timeWindow>
+          <reference>2018-10-10T08:39:49.595Z</reference>
+          <begin>-10.839999</begin>
+          <end>5.24</end>
+        </timeWindow>
+        <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667635.26384</pickID>
+        <waveformID networkCode="TX" stationCode="ODSA" locationCode="00" channelCode="HH"/>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:20:05.645719Z</creationTime>
+        </creationInfo>
+      </amplitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.351178.28634">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>1.712377665</value>
+        </mag>
+        <type>ML</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010142005.645625.26949</amplitudeID>
+        <waveformID networkCode="TX" stationCode="ODSA" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:47.351187Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <amplitude publicID="smi:org.gfz-potsdam.de/geofon/Amplitude/20181010135048.042748.13253">
+        <type>ML</type>
+        <genericAmplitude>
+          <value>0.2430802678</value>
+          <lowerUncertainty>0.04109821546</lowerUncertainty>
+          <upperUncertainty>0.04109821546</upperUncertainty>
+        </genericAmplitude>
+        <timeWindow>
+          <reference>2018-10-10T08:39:49.72Z</reference>
+          <begin>-28.509999</begin>
+          <end>60.48</end>
+        </timeWindow>
+        <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587662.13196</pickID>
+        <waveformID networkCode="4T" stationCode="NM03" locationCode="00" channelCode="HH"/>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>peng</author>
+          <creationTime>2018-10-10T13:50:48.042857Z</creationTime>
+        </creationInfo>
+      </amplitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.351472.28635">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>2.125749706</value>
+        </mag>
+        <type>ML</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010135048.042748.13253</amplitudeID>
+        <waveformID networkCode="4T" stationCode="NM03" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:47.351485Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <amplitude publicID="smi:org.gfz-potsdam.de/geofon/Amplitude/20181010135038.129948.13224">
+        <type>ML</type>
+        <genericAmplitude>
+          <value>0.1061989272</value>
+          <lowerUncertainty>0.001161406001</lowerUncertainty>
+          <upperUncertainty>0.001161406001</upperUncertainty>
+        </genericAmplitude>
+        <timeWindow>
+          <reference>2018-10-10T08:39:50.26Z</reference>
+          <begin>-29.094999</begin>
+          <end>59.85</end>
+        </timeWindow>
+        <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587455.13194</pickID>
+        <waveformID networkCode="TX" stationCode="VHRN" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>peng</author>
+          <creationTime>2018-10-10T13:50:38.129983Z</creationTime>
+        </creationInfo>
+      </amplitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.351742.28636">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>1.77612013</value>
+        </mag>
+        <type>ML</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010135038.129948.13224</amplitudeID>
+        <waveformID networkCode="TX" stationCode="VHRN" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:47.351751Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <amplitude publicID="smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.702229.26893">
+        <type>ML</type>
+        <genericAmplitude>
+          <value>0.09446793855</value>
+          <lowerUncertainty>0.002962768271</lowerUncertainty>
+          <upperUncertainty>0.002962768271</upperUncertainty>
+        </genericAmplitude>
+        <timeWindow>
+          <reference>2018-10-10T08:39:53.05Z</reference>
+          <begin>-30.619999</begin>
+          <end>61.465</end>
+        </timeWindow>
+        <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667846.26391</pickID>
+        <waveformID networkCode="TX" stationCode="SAND" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:19:35.70228Z</creationTime>
+        </creationInfo>
+      </amplitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.352.28637">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>1.743193846</value>
+        </mag>
+        <type>ML</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010141935.702229.26893</amplitudeID>
+        <waveformID networkCode="TX" stationCode="SAND" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:47.352009Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535/staMag/ML/4T.NM02">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>2.532580903</value>
+        </mag>
+        <type>ML</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010142049.2921.5373461</amplitudeID>
+        <waveformID networkCode="4T" stationCode="NM02" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>scmag@sc3primary.beg.utexas.edu</author>
+          <creationTime>2018-10-10T14:36:58.052627Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <stationMagnitude publicID="smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535/staMag/ML/TX.PB11">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>1.599270446</value>
+        </mag>
+        <type>ML</type>
+        <amplitudeID>smi:org.gfz-potsdam.de/geofon/Amplitude/20181010142049.395586.5373465</amplitudeID>
+        <waveformID networkCode="TX" stationCode="PB11" locationCode="00" channelCode="HH"/>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>scmag@sc3primary.beg.utexas.edu</author>
+          <creationTime>2018-10-10T14:36:58.055994Z</creationTime>
+        </creationInfo>
+      </stationMagnitude>
+      <magnitude publicID="smi:org.gfz-potsdam.de/geofon/Magnitude/20181010143511.713418.28578">
+        <originID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</originID>
+        <mag>
+          <value>1.839542583</value>
+          <uncertainty>0.1522923585</uncertainty>
+        </mag>
+        <type>ML</type>
+        <methodID>smi:org.gfz-potsdam.de/geofon/mean</methodID>
+        <stationCount>7</stationCount>
+        <evaluationStatus>confirmed</evaluationStatus>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:47.348859Z</creationTime>
+        </creationInfo>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.349203.28627</stationMagnitudeID>
+          <weight>0</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.349528.28628</stationMagnitudeID>
+          <weight>0</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.349802.28629</stationMagnitudeID>
+          <weight>0</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.350066.28630</stationMagnitudeID>
+          <weight>1</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.350379.28631</stationMagnitudeID>
+          <weight>1</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.350656.28632</stationMagnitudeID>
+          <weight>1</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.350919.28633</stationMagnitudeID>
+          <weight>0</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.351178.28634</stationMagnitudeID>
+          <weight>1</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.351472.28635</stationMagnitudeID>
+          <weight>1</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.351742.28636</stationMagnitudeID>
+          <weight>1</weight>
+        </stationMagnitudeContribution>
+        <stationMagnitudeContribution>
+          <stationMagnitudeID>smi:org.gfz-potsdam.de/geofon/StationMagnitude/20181010143547.352.28637</stationMagnitudeID>
+          <weight>1</weight>
+        </stationMagnitudeContribution>
+      </magnitude>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587066.13190">
+        <time>
+          <value>2018-10-10T08:39:09.541425Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="MNHN" locationCode="00" channelCode="HH1"/>
+        <filterID>smi:org.gfz-potsdam.de/geofon/BW_HP(3,0.5)</filterID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>peng</author>
+          <creationTime>2018-10-10T13:50:21.58713Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587161.13191">
+        <time>
+          <value>2018-10-10T08:39:17.505889Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="MNHN" locationCode="00" channelCode="HH2"/>
+        <filterID>smi:org.gfz-potsdam.de/geofon/BW_HP(3,0.5)</filterID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>peng</author>
+          <creationTime>2018-10-10T13:50:21.587222Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587356.13193">
+        <time>
+          <value>2018-10-10T08:39:22.980055Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="ALPN" locationCode="00" channelCode="HH2"/>
+        <filterID>smi:org.gfz-potsdam.de/geofon/BW_HP(3,0.5)</filterID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>peng</author>
+          <creationTime>2018-10-10T13:50:21.587415Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587455.13194">
+        <time>
+          <value>2018-10-10T08:39:26.165844Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="VHRN" locationCode="00" channelCode="HHZ"/>
+        <filterID>smi:org.gfz-potsdam.de/geofon/BW_HP(3,0.5)</filterID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>peng</author>
+          <creationTime>2018-10-10T13:50:21.587516Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587548.13195">
+        <time>
+          <value>2018-10-10T08:39:45.95361Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="VHRN" locationCode="00" channelCode="HH2"/>
+        <filterID>smi:org.gfz-potsdam.de/geofon/BW_HP(3,0.5)</filterID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>peng</author>
+          <creationTime>2018-10-10T13:50:21.587623Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587662.13196">
+        <time>
+          <value>2018-10-10T08:39:26.210715Z</value>
+        </time>
+        <waveformID networkCode="4T" stationCode="NM03" locationCode="00" channelCode="HHZ"/>
+        <filterID>smi:org.gfz-potsdam.de/geofon/BW(3,5,20)</filterID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>peng</author>
+          <creationTime>2018-10-10T13:50:21.587724Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667074.26371">
+        <time>
+          <value>2018-10-10T08:39:01.850384Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="PB05" locationCode="00" channelCode="HHZ"/>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.667175Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667192.26372">
+        <time>
+          <value>2018-10-10T08:39:04.102815Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="PB05" locationCode="00" channelCode="HH2"/>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.667217Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.66724.26373">
+        <time>
+          <value>2018-10-10T08:39:02.806824Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="PB03" locationCode="00" channelCode="HHZ"/>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.667262Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667281.26374">
+        <time>
+          <value>2018-10-10T08:39:13.465338Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="PB08" locationCode="00" channelCode="HH1"/>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.667302Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667313.26375">
+        <time>
+          <value>2018-10-10T08:39:07.443401Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="PB08" locationCode="00" channelCode="HHZ"/>
+        <filterID>smi:org.gfz-potsdam.de/geofon/BW(2,1,5)</filterID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.667334Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667454.26378">
+        <time>
+          <value>2018-10-10T08:39:07.253042Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="PB01" locationCode="00" channelCode="HH"/>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.667471Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667483.26379">
+        <time>
+          <value>2018-10-10T08:39:18.390906Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="PECS" locationCode="00" channelCode="HH2"/>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.667502Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667512.26380">
+        <time>
+          <value>2018-10-10T08:39:10.108613Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="PECS" locationCode="00" channelCode="HHZ"/>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.66753Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.66754.26381">
+        <time>
+          <value>2018-10-10T08:39:19.343737Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="PB06" locationCode="00" channelCode="HH2"/>
+        <filterID>smi:org.gfz-potsdam.de/geofon/BW(4,0.8,3)</filterID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.66756Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667572.26382">
+        <time>
+          <value>2018-10-10T08:39:20.117777Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="PB07" locationCode="00" channelCode="HH2"/>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.66759Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667603.26383">
+        <time>
+          <value>2018-10-10T08:39:12.988676Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="ALPN" locationCode="00" channelCode="HHZ"/>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.667621Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667635.26384">
+        <time>
+          <value>2018-10-10T08:39:22.075785Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="ODSA" locationCode="00" channelCode="HHZ"/>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.667653Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.66766.26385">
+        <time>
+          <value>2018-10-10T08:39:39.350674Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="ODSA" locationCode="00" channelCode="HH2"/>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.667678Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667689.26386">
+        <time>
+          <value>2018-10-10T08:39:42.121002Z</value>
+        </time>
+        <waveformID networkCode="4T" stationCode="NM02" locationCode="00" channelCode="HHE"/>
+        <filterID>smi:org.gfz-potsdam.de/geofon/BW(2,1,5)</filterID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.667708Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667717.26387">
+        <time>
+          <value>2018-10-10T08:39:23.19713Z</value>
+        </time>
+        <waveformID networkCode="4T" stationCode="NM02" locationCode="00" channelCode="HHZ"/>
+        <filterID>smi:org.gfz-potsdam.de/geofon/BW(2,1,5)</filterID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.667734Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.66775.26388">
+        <time>
+          <value>2018-10-10T08:39:46.072621Z</value>
+        </time>
+        <waveformID networkCode="4T" stationCode="NM03" locationCode="00" channelCode="HH2"/>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.667768Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.66778.26389">
+        <time>
+          <value>2018-10-10T08:39:26.186398Z</value>
+        </time>
+        <waveformID networkCode="SC" stationCode="HTMS" locationCode="00" channelCode="EHZ"/>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.667798Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667846.26391">
+        <time>
+          <value>2018-10-10T08:39:27.428209Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="SAND" locationCode="00" channelCode="HHZ"/>
+        <filterID>smi:org.gfz-potsdam.de/geofon/BW(2,1,5)</filterID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.667864Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667877.26392">
+        <time>
+          <value>2018-10-10T08:39:30.945713Z</value>
+        </time>
+        <waveformID networkCode="IM" stationCode="TX31" channelCode="BHZ"/>
+        <phaseHint>P</phaseHint>
+        <polarity>positive</polarity>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.667895Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.6679.26393">
+        <time>
+          <value>2018-10-10T08:39:54.381436Z</value>
+        </time>
+        <waveformID networkCode="IM" stationCode="TX31" channelCode="BHE"/>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.667918Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.66794.26394">
+        <time>
+          <value>2018-10-10T08:39:58.957047Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="OZNA" locationCode="00" channelCode="HH2"/>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.667961Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667971.26395">
+        <time>
+          <value>2018-10-10T08:39:33.162026Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="OZNA" locationCode="00" channelCode="HHZ"/>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.66799Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.668004.26396">
+        <time>
+          <value>2018-10-10T08:39:32.947544Z</value>
+        </time>
+        <waveformID networkCode="US" stationCode="MNTX" locationCode="00" channelCode="BHZ"/>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.668023Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.668034.26397">
+        <time>
+          <value>2018-10-10T08:39:58.442291Z</value>
+        </time>
+        <waveformID networkCode="US" stationCode="MNTX" locationCode="00" channelCode="BH1"/>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.668052Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.668062.26398">
+        <time>
+          <value>2018-10-10T08:39:34.417896Z</value>
+        </time>
+        <waveformID networkCode="SC" stationCode="DAG" locationCode="00" channelCode="EHZ"/>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.668081Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.668093.26399">
+        <time>
+          <value>2018-10-10T08:39:35.48922Z</value>
+        </time>
+        <waveformID networkCode="SC" stationCode="CPRX" locationCode="00" channelCode="EHZ"/>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.668112Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.668131.26400">
+        <time>
+          <value>2018-10-10T08:39:35.532276Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="SGCY" locationCode="00" channelCode="HHZ"/>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.66815Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.668161.26401">
+        <time>
+          <value>2018-10-10T08:40:03.413979Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="SGCY" locationCode="00" channelCode="HH2"/>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:08:21.66818Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140905.679859.26419">
+        <time>
+          <value>2018-10-10T08:39:14.102636Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="PB01" locationCode="00" channelCode="HH2"/>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:09:05.679954Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010141157.208777.26599">
+        <time>
+          <value>2018-10-10T08:39:33.846756Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="PB11" locationCode="00" channelCode="HH2"/>
+        <filterID>smi:org.gfz-potsdam.de/geofon/BW(4,0.8,3)</filterID>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:11:57.208876Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010141157.208898.26600">
+        <time>
+          <value>2018-10-10T08:39:19.318658Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="PB11" locationCode="00" channelCode="HHZ"/>
+        <filterID>smi:org.gfz-potsdam.de/geofon/BW(4,0.8,3)</filterID>
+        <phaseHint>P</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:11:57.208921Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010141917.34062.26853">
+        <time>
+          <value>2018-10-10T08:39:13.062312Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="PB02" locationCode="00" channelCode="HH2"/>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:19:17.340764Z</creationTime>
+        </creationInfo>
+      </pick>
+      <pick publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010143412.255983.28493">
+        <time>
+          <value>2018-10-10T08:39:05.855572Z</value>
+        </time>
+        <waveformID networkCode="TX" stationCode="PB03" locationCode="00" channelCode="HH1"/>
+        <phaseHint>S</phaseHint>
+        <evaluationMode>manual</evaluationMode>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:34:12.256074Z</creationTime>
+        </creationInfo>
+      </pick>
+      <origin catalog:datasource="tx" catalog:eventsource="tx" catalog:eventid="2018tvwz" catalog:dataid="tx2018tvwz" publicID="smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535">
+        <time>
+          <value>2018-10-10T08:38:58.454256Z</value>
+        </time>
+        <latitude>
+          <value>31.06483687</value>
+          <uncertainty>0.6674305999</uncertainty>
+        </latitude>
+        <longitude>
+          <value>-103.3111285</value>
+          <uncertainty>0.6393067728</uncertainty>
+        </longitude>
+        <depth>
+          <value>3689.306641</value>
+          <uncertainty>1704.787708</uncertainty>
+        </depth>
+        <methodID>smi:org.gfz-potsdam.de/geofon/NonLinLoc</methodID>
+        <earthModelID>smi:org.gfz-potsdam.de/geofon/PB1D-20170918-topoLV</earthModelID>
+        <quality>
+          <associatedPhaseCount>39</associatedPhaseCount>
+          <usedPhaseCount>32</usedPhaseCount>
+          <usedStationCount>22</usedStationCount>
+          <standardError>0.3004651564</standardError>
+          <azimuthalGap>52.44491726</azimuthalGap>
+          <secondaryAzimuthalGap>66.57325056</secondaryAzimuthalGap>
+          <groundTruthLevel>-</groundTruthLevel>
+          <maximumDistance>1.883266319</maximumDistance>
+          <minimumDistance>0.1451770897</minimumDistance>
+          <medianDistance>1.150302757</medianDistance>
+        </quality>
+        <originUncertainty>
+          <horizontalUncertainty>1036.017105</horizontalUncertainty>
+          <minHorizontalUncertainty>944.0736711</minHorizontalUncertainty>
+          <maxHorizontalUncertainty>1036.017105</maxHorizontalUncertainty>
+          <azimuthMaxHorizontalUncertainty>148.8319825</azimuthMaxHorizontalUncertainty>
+          <confidenceEllipsoid>
+            <semiMajorAxisLength>3234959.671</semiMajorAxisLength>
+            <semiMinorAxisLength>1092746.941</semiMinorAxisLength>
+            <semiIntermediateAxisLength>1270994.488</semiIntermediateAxisLength>
+            <majorAxisPlunge>8.58555047</majorAxisPlunge>
+            <majorAxisAzimuth>-118.3400756</majorAxisAzimuth>
+            <majorAxisRotation>81.83549507</majorAxisRotation>
+          </confidenceEllipsoid>
+        </originUncertainty>
+        <evaluationMode>manual</evaluationMode>
+        <evaluationStatus>final</evaluationStatus>
+        <creationInfo>
+          <agencyID>TX</agencyID>
+          <author>Tricia</author>
+          <creationTime>2018-10-10T14:35:05.067362Z</creationTime>
+        </creationInfo>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587066.13190_NLL.20181010143503.586685.28535">
+          <timeWeight>1.250197173</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587066.13190</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>59.12959019</azimuth>
+          <distance>0.5365623818</distance>
+          <takeoffAngle>
+            <value>69</value>
+          </takeoffAngle>
+          <timeResidual>0.09764577979</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587161.13191_NLL.20181010143503.586685.28535">
+          <timeWeight>1.174813835</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587161.13191</pickID>
+          <phase>S</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>59.12959019</azimuth>
+          <distance>0.5365623818</distance>
+          <takeoffAngle>
+            <value>69</value>
+          </takeoffAngle>
+          <timeResidual>-0.1809520301</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587356.13193_NLL.20181010143503.586685.28535">
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587356.13193</pickID>
+          <phase>S</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>200.6754195</azimuth>
+          <distance>0.7377134267</distance>
+          <takeoffAngle>
+            <value>69</value>
+          </takeoffAngle>
+          <timeResidual>-1.566673711</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587455.13194_NLL.20181010143503.586685.28535">
+          <timeWeight>0.935863351</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587455.13194</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>258.9836225</azimuth>
+          <distance>1.455769032</distance>
+          <takeoffAngle>
+            <value>65.7</value>
+          </takeoffAngle>
+          <timeResidual>-0.3960861208</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587548.13195_NLL.20181010143503.586685.28535">
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587548.13195</pickID>
+          <phase>S</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>258.9836225</azimuth>
+          <distance>1.455769032</distance>
+          <takeoffAngle>
+            <value>65.7</value>
+          </takeoffAngle>
+          <timeResidual>-1.693679419</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587662.13196_NLL.20181010143503.586685.28535">
+          <timeWeight>1.160705624</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010135021.587662.13196</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>347.2421613</azimuth>
+          <distance>1.44301186</distance>
+          <takeoffAngle>
+            <value>65.7</value>
+          </takeoffAngle>
+          <timeResidual>-0.0714421881</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667074.26371_NLL.20181010143503.586685.28535">
+          <timeWeight>1.291589955</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667074.26371</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>182.7621509</azimuth>
+          <distance>0.1451770897</distance>
+          <takeoffAngle>
+            <value>99</value>
+          </takeoffAngle>
+          <timeResidual>-0.03809913971</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667192.26372_NLL.20181010143503.586685.28535">
+          <timeWeight>1.017683936</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667192.26372</pickID>
+          <phase>S</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>182.7621509</azimuth>
+          <distance>0.1451770897</distance>
+          <takeoffAngle>
+            <value>99</value>
+          </takeoffAngle>
+          <timeResidual>-0.3614609299</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.66724.26373_NLL.20181010143503.586685.28535">
+          <timeWeight>1.017476341</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.66724.26373</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>276.2088503</azimuth>
+          <distance>0.1753018767</distance>
+          <takeoffAngle>
+            <value>97.4</value>
+          </takeoffAngle>
+          <timeResidual>0.3370193883</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667281.26374_NLL.20181010143503.586685.28535">
+          <timeWeight>0.8429464448</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667281.26374</pickID>
+          <phase>S</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>116.1889004</azimuth>
+          <distance>0.3922282935</distance>
+          <takeoffAngle>
+            <value>69.1</value>
+          </takeoffAngle>
+          <timeResidual>0.4522620286</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667313.26375_NLL.20181010143503.586685.28535">
+          <timeWeight>0.4926008829</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667313.26375</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>116.1889004</azimuth>
+          <distance>0.3922282935</distance>
+          <takeoffAngle>
+            <value>69.1</value>
+          </takeoffAngle>
+          <timeResidual>0.6702035075</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667454.26378_NLL.20181010143503.586685.28535">
+          <timeWeight>1.28502275</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667454.26378</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>253.1203368</azimuth>
+          <distance>0.4171099281</distance>
+          <takeoffAngle>
+            <value>69</value>
+          </takeoffAngle>
+          <timeResidual>-0.006867110607</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667483.26379_NLL.20181010143503.586685.28535">
+          <timeWeight>0.7540077067</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667483.26379</pickID>
+          <phase>S</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>302.2502494</azimuth>
+          <distance>0.572700025</distance>
+          <takeoffAngle>
+            <value>69</value>
+          </takeoffAngle>
+          <timeResidual>-0.5494374229</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667512.26380_NLL.20181010143503.586685.28535">
+          <timeWeight>1.270677046</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667512.26380</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>302.2502494</azimuth>
+          <distance>0.572700025</distance>
+          <takeoffAngle>
+            <value>69</value>
+          </takeoffAngle>
+          <timeResidual>-0.05145252633</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.66754.26381_NLL.20181010143503.586685.28535">
+          <timeWeight>1.220232148</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.66754.26381</pickID>
+          <phase>S</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>5.903556123</azimuth>
+          <distance>0.5853533323</distance>
+          <takeoffAngle>
+            <value>69</value>
+          </takeoffAngle>
+          <timeResidual>0.02076128547</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667572.26382_NLL.20181010143503.586685.28535">
+          <timeWeight>1.191571299</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667572.26382</pickID>
+          <phase>S</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>328.0746634</azimuth>
+          <distance>0.6061496176</distance>
+          <takeoffAngle>
+            <value>69</value>
+          </takeoffAngle>
+          <timeResidual>0.1011457307</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667603.26383_NLL.20181010143503.586685.28535">
+          <timeWeight>0.9930535542</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667603.26383</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>200.6754195</azimuth>
+          <distance>0.7377134267</distance>
+          <takeoffAngle>
+            <value>69</value>
+          </takeoffAngle>
+          <timeResidual>-0.3749090176</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667635.26384_NLL.20181010143503.586685.28535">
+          <timeWeight>1.198001303</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667635.26384</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>30.07003839</azimuth>
+          <distance>1.219135152</distance>
+          <takeoffAngle>
+            <value>65.7</value>
+          </takeoffAngle>
+          <timeResidual>-0.05319801225</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.66766.26385_NLL.20181010143503.586685.28535">
+          <timeWeight>0.756203262</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.66766.26385</pickID>
+          <phase>S</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>30.07003839</azimuth>
+          <distance>1.219135152</distance>
+          <takeoffAngle>
+            <value>65.7</value>
+          </takeoffAngle>
+          <timeResidual>-0.5380031512</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667689.26386_NLL.20181010143503.586685.28535">
+          <timeWeight>0.6771802784</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667689.26386</pickID>
+          <phase>S</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>336.5846905</azimuth>
+          <distance>1.306630882</distance>
+          <takeoffAngle>
+            <value>65.7</value>
+          </takeoffAngle>
+          <timeResidual>-0.6195422486</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667717.26387_NLL.20181010143503.586685.28535">
+          <timeWeight>0.7423411901</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667717.26387</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>336.5846905</azimuth>
+          <distance>1.306630882</distance>
+          <takeoffAngle>
+            <value>65.7</value>
+          </takeoffAngle>
+          <timeResidual>-0.5612814536</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.66775.26388_NLL.20181010143503.586685.28535">
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.66775.26388</pickID>
+          <phase>S</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>347.2421613</azimuth>
+          <distance>1.44301186</distance>
+          <takeoffAngle>
+            <value>65.7</value>
+          </takeoffAngle>
+          <timeResidual>-1.085074277</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.66778.26389_NLL.20181010143503.586685.28535">
+          <timeWeight>1.150750238</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.66778.26389</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>347.2422672</azimuth>
+          <distance>1.443113766</distance>
+          <takeoffAngle>
+            <value>65.7</value>
+          </takeoffAngle>
+          <timeResidual>-0.1085673793</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667846.26391_NLL.20181010143503.586685.28535">
+          <timeWeight>0.8375512564</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667846.26391</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>136.2101282</azimuth>
+          <distance>1.537534108</distance>
+          <takeoffAngle>
+            <value>65.7</value>
+          </takeoffAngle>
+          <timeResidual>-0.4814505816</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667877.26392_NLL.20181010143503.586685.28535">
+          <timeWeight>1.10978468</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667877.26392</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>188.4399655</azimuth>
+          <distance>1.749241268</distance>
+          <takeoffAngle>
+            <value>43.7</value>
+          </takeoffAngle>
+          <timeResidual>-0.1090226931</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.6679.26393_NLL.20181010143503.586685.28535">
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.6679.26393</pickID>
+          <phase>S</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>188.4399655</azimuth>
+          <distance>1.749241268</distance>
+          <takeoffAngle>
+            <value>43.7</value>
+          </takeoffAngle>
+          <timeResidual>-1.129880604</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.66794.26394_NLL.20181010143503.586685.28535">
+          <timeWeight>0.8007227286</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.66794.26394</pickID>
+          <phase>S</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>94.35198742</azimuth>
+          <distance>1.883266319</distance>
+          <takeoffAngle>
+            <value>43.7</value>
+          </takeoffAngle>
+          <timeResidual>0.3008524653</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667971.26395_NLL.20181010143503.586685.28535">
+          <timeWeight>0.9577147658</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.667971.26395</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>94.35198742</azimuth>
+          <distance>1.883266319</distance>
+          <takeoffAngle>
+            <value>43.7</value>
+          </takeoffAngle>
+          <timeResidual>0.3103595757</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.668004.26396_NLL.20181010143503.586685.28535">
+          <timeWeight>1.09436403</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.668004.26396</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>289.5692597</azimuth>
+          <distance>1.891465007</distance>
+          <takeoffAngle>
+            <value>43.7</value>
+          </takeoffAngle>
+          <timeResidual>0.07494044761</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.668034.26397_NLL.20181010143503.586685.28535">
+          <timeWeight>0.8347702205</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.668034.26397</pickID>
+          <phase>S</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>289.5692597</azimuth>
+          <distance>1.891465007</distance>
+          <takeoffAngle>
+            <value>43.7</value>
+          </takeoffAngle>
+          <timeResidual>-0.2505805103</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.668062.26398_NLL.20181010143503.586685.28535">
+          <timeWeight>0.7459705534</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.668062.26398</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>321.5165822</azimuth>
+          <distance>1.949267407</distance>
+          <takeoffAngle>
+            <value>43.7</value>
+          </takeoffAngle>
+          <timeResidual>0.5188569174</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.668093.26399_NLL.20181010143503.586685.28535">
+          <timeWeight>0.8918547556</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.668093.26399</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>344.8792558</azimuth>
+          <distance>2.035655449</distance>
+          <takeoffAngle>
+            <value>43.5</value>
+          </takeoffAngle>
+          <timeResidual>0.3713243634</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.668131.26400_NLL.20181010143503.586685.28535">
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.668131.26400</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>65.06002521</azimuth>
+          <distance>2.014369947</distance>
+          <takeoffAngle>
+            <value>43.6</value>
+          </takeoffAngle>
+          <timeResidual>0.8581235731</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.668161.26401_NLL.20181010143503.586685.28535">
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140821.668161.26401</pickID>
+          <phase>S</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>65.06002521</azimuth>
+          <distance>2.014369947</distance>
+          <takeoffAngle>
+            <value>43.7</value>
+          </takeoffAngle>
+          <timeResidual>1.568233951</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010140905.679859.26419_NLL.20181010143503.586685.28535">
+          <timeWeight>1.123225134</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010140905.679859.26419</pickID>
+          <phase>S</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>253.1203368</azimuth>
+          <distance>0.4171099281</distance>
+          <takeoffAngle>
+            <value>69</value>
+          </takeoffAngle>
+          <timeResidual>0.237854054</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010141157.208777.26599_NLL.20181010143503.586685.28535">
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010141157.208777.26599</pickID>
+          <phase>S</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>323.6021</azimuth>
+          <distance>1.081470361</distance>
+          <takeoffAngle>
+            <value>65.7</value>
+          </takeoffAngle>
+          <timeResidual>-1.615019155</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010141157.208898.26600_NLL.20181010143503.586685.28535">
+          <timeWeight>1.082251519</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010141157.208898.26600</pickID>
+          <phase>P</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>323.6021</azimuth>
+          <distance>1.081470361</distance>
+          <takeoffAngle>
+            <value>65.7</value>
+          </takeoffAngle>
+          <timeResidual>-0.2809701572</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010141917.34062.26853_NLL.20181010143503.586685.28535">
+          <timeWeight>1.136288796</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010141917.34062.26853</pickID>
+          <phase>S</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>332.2377553</azimuth>
+          <distance>0.3884058132</distance>
+          <takeoffAngle>
+            <value>69.1</value>
+          </takeoffAngle>
+          <timeResidual>0.2286672145</timeResidual>
+        </arrival>
+        <arrival publicID="smi:org.gfz-potsdam.de/geofon/Pick/20181010143412.255983.28493_NLL.20181010143503.586685.28535">
+          <timeWeight>0.9625832423</timeWeight>
+          <pickID>smi:org.gfz-potsdam.de/geofon/Pick/20181010143412.255983.28493</pickID>
+          <phase>S</phase>
+          <timeCorrection>0</timeCorrection>
+          <azimuth>276.2088503</azimuth>
+          <distance>0.1753018767</distance>
+          <takeoffAngle>
+            <value>97.4</value>
+          </takeoffAngle>
+          <timeResidual>0.3737733689</timeResidual>
+        </arrival>
+      </origin>
+      <preferredOriginID>smi:org.gfz-potsdam.de/geofon/NLL.20181010143503.586685.28535</preferredOriginID>
+      <preferredMagnitudeID>smi:org.gfz-potsdam.de/geofon/Magnitude/20181010143511.713418.28578</preferredMagnitudeID>
+      <type>earthquake</type>
+      <typeCertainty>known</typeCertainty>
+      <creationInfo>
+        <agencyID>TX</agencyID>
+        <author>scevent@sc3primary.beg.utexas.edu</author>
+        <creationTime>2018-10-10T08:39:10.856056Z</creationTime>
+      </creationInfo>
+      <description>
+        <text>Western Texas</text>
+        <type>region name</type>
+      </description>
+    </event>
+    <creationInfo>
+      <agencyID>TX</agencyID>
+      <creationTime>2018-10-10T16:41:31.907715Z</creationTime>
+    </creationInfo>
+  </eventParameters>
+</q:quakeml>
