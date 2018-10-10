@@ -1,7 +1,6 @@
 #!/bin/bash
 
 basedir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" >/dev/null && pwd )"
-# basedir=/home/seiscomp/sc3pdl/texnet 
 seiscomp_root=/home/seiscomp/seiscomp3
 d=`date -u +%Y-%m-%dT%H:%M:%S.%6NZ`
 epoch=`date -u --date=$d +%s.%6N`
